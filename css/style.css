@@ -1,4 +1,7 @@
 .bg-color {
-  color: #8e741a;
-  background-color: #fefbea;
+  background-color: #dfdfdf;
+}
+
+.Phone-color a:hover span:nth-child(2) {
+  color: #ffd148;
 }
