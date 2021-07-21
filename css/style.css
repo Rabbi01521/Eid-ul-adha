@@ -2,6 +2,19 @@
   background-color: #dfdfdf;
 }
 
+.bg-color-ads {
+  color: #ffd148;
+}
+
 .Phone-color a:hover span:nth-child(2) {
   color: #ffd148;
+}
+
+.w-75-90 {
+  width: 90%;
+}
+
+.img-hover img:hover {
+  transform: scale(1.1);
+  transition: all ease-in-out 2s;
 }
